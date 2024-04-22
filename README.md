@@ -8,5 +8,3 @@ The MesoNet research paper was published by [Darius Afchar](https://arxiv.org/se
 The paper includes two models each trained on two different datasets: we explore the Meso4 model trained on the Deepfake dataset, which was created and released by MesoNet researchers.
 - Paper: [MesoNet: a Compact Facial Video Forgery Detection Network](https://arxiv.org/abs/1809.00888)
 - GitHub repo: [DariusAf/MesoNet](https://github.com/DariusAf/MesoNet)
-
-Deepfake research rapidly evolves, and we suggest keeping up with the latest research using tools like [Google Scholar](https://scholar.google.com/scholar)
