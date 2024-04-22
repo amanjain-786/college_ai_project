@@ -10,5 +10,3 @@ The paper includes two models each trained on two different datasets: we explore
 - GitHub repo: [DariusAf/MesoNet](https://github.com/DariusAf/MesoNet)
 
 Deepfake research rapidly evolves, and we suggest keeping up with the latest research using tools like [Google Scholar](https://scholar.google.com/scholar)
-
-(This exploration was developed in partnership with [Mikhail Lenko](https://github.com/MikhailLenko).)
